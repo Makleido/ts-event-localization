@@ -1,0 +1,6 @@
+{
+  "exampleText": "Lorem ipsum dolor sit amet",
+  "exampleVariable": "Lorem ipsum {{count}} amet",
+  "exampleConditional": "Lorem ipsum {{count}} amet",
+  "exampleConditional_plural": "Lorem ipsum {{count}} amets"
+}

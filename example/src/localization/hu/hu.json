@@ -1,0 +1,6 @@
+{
+  "metaTitle": "Példa Alapértelmezett JSON Lokalizáció",
+  "metaDescription": "Ez egy példa egy alapértelmezett JSON lokalizációs fájlra.",
+  "exampleDefaultJsonKey": "Ez egy példa szöveg alapértelmezett JSON kulccsal",
+  "switchLanguageLabel": "Nyelv váltása"
+}

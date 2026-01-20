@@ -1,0 +1,7 @@
+{
+  "thisWasClient": "This was rendered on the client",
+  "exampleText": "Lorem ipsum dolor sit amet",
+  "exampleVariable": "Lorem ipsum {{count}} amet",
+  "exampleConditional": "Lorem ipsum {{count}} amet",
+  "exampleConditional_plural": "Lorem ipsum {{count}} amets"
+}

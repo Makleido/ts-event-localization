@@ -1,0 +1,7 @@
+{
+  "thisWasClient": "Ez a kliens oldalon lett renderelve",
+  "exampleText": "Lorem ipsum dolor sit amet hu",
+  "exampleVariable": "Lorem ipsum {{count}} amet hu",
+  "exampleConditional": "Lorem ipsum {{count}} amet hu",
+  "exampleConditional_plural": "Lorem ipsum {{count}} amets hu"
+}
