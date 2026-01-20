@@ -4,6 +4,8 @@ This is a alternative for other localization options, if they are not sufficient
 
 This package now uses event emitter to send events when language change is needed, and saves options into cookies. The language change is handled by a exported method from the `useTranslation` hook.
 
+It is currently only working with React JS/Next JS, for other libraries or frameworks, it might need an update for the state management, and for SSR rendering it is currently bound by Next JS cookies import. There are plans for making a general solution in the future.
+
 # Usage
 
 ## Config
